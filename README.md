@@ -21,8 +21,8 @@
 <div align="center">
   <a href="https://github.com/doosedev/flipper_toolbox">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="/.github/assets/banner_light.png">
-      <source media="(prefers-color-scheme: light)" srcset="/.github/assets/banner_dark.png">
+      <source media="(prefers-color-scheme: dark)" srcset="/.github/assets/banner_dark.png">
+      <source media="(prefers-color-scheme: light)" srcset="/.github/assets/banner_light.png">
       <img alt="Peregrine Developments logo with text: Flipper Toolbox" src="/.github/assets/banner_light.png">
     </picture>
   </a>
