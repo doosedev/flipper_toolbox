@@ -1,3 +1,3 @@
 (fp_lib_table
-  (lib (name "flipper_headers")(type "KiCad")(uri "C:/Users/jdoose2/Documents/flipper_toolbox/part_libs/flipper_headers.pretty")(options "")(descr ""))
+  (lib (name "flipper_headers")(type "KiCad")(uri "${KIPRJMOD}/../part_libs/flipper_headers.pretty")(options "")(descr ""))
 )
