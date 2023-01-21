@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "flipper_headers")(type "KiCad")(uri "${KIPRJMOD}/../part_libs/flipper_headers.pretty")(options "")(descr ""))
+)
